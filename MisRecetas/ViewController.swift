@@ -23,12 +23,12 @@ class ViewController: UITableViewController
 		navigationItem.backBarButtonItem = UIBarButtonItem(title: "", style: .plain, target: nil, action: nil)
 		
 		//self.tableView.estimatedRowHeight = 44;
-		//self.tableView.rowHeight = UITableViewAutomaticDimension
+		//self.tableView.rowHeight = UITableViewAutomaticDimension fdfdfdf
 		
 		
 		
         
-        var receta = Receta(name: "Tortilla de patatas",image: #imageLiteral(resourceName: "tortillaPatatas"),time : 9,
+        var receta = Receta(name: "Tortilla de patatas ddfdf",image: #imageLiteral(resourceName: "tortillaPatatas"),time : 9,
                             ingredientes : ["Patatas","Huevos","Cebollas"],
                             pasos : ["Pelar patatas","cortar","freir"])
         
