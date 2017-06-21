@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B74A58A4107A95F51608927C2B714A30F78C5437",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B74A58A4107A95F51608927C2B714A30F78C5437" : 9223372036854775807,
+    "6CED65CBF4D153E4C507FB8187DC2855BCE7D141" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6CDA14A7-9CAA-4B40-9448-696DB88F487C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B74A58A4107A95F51608927C2B714A30F78C5437" : "MisRecetas\/",
+    "6CED65CBF4D153E4C507FB8187DC2855BCE7D141" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MisRecetas",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MisRecetas.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "CursoSwift3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6CED65CBF4D153E4C507FB8187DC2855BCE7D141"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maonicorporation\/MisRecetas.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B74A58A4107A95F51608927C2B714A30F78C5437"
+    }
+  ]
+}
